@@ -29,7 +29,7 @@ This repo serves as a **learning diary + project portfolio**.
 
 | Day | Date | Topics / Concepts Studied | Practical / Module Implemented | Status |
 |-----|------|--------------------------|-------------------------------|--------|
-| 1   | YYYY-MM-DD | Verilog Revision: Basics, Operators | --- | ✅ Completed |
+| 1   | 19/10/2025 | SystemVerilog: Built in functions | --- | ![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github)|
 | 2   | YYYY-MM-DD | Verilog Revision: FSM & Counters | ---| ![Coming Soon](https://img.shields.io/badge/Coming%20Soon-%23FF69B4?style=for-the-badge&logo=github) |
 | 3   | YYYY-MM-DD | SystemVerilog: Data Types & Logic | ---|![Coming Soon](https://img.shields.io/badge/Coming%20Soon-%23FF69B4?style=for-the-badge&logo=github)|
 | 4   | YYYY-MM-DD | SystemVerilog: Arrays & Structs | --- | ![Coming Soon](https://img.shields.io/badge/Coming%20Soon-%23FF69B4?style=for-the-badge&logo=github)|
