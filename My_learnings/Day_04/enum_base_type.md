@@ -1,4 +1,4 @@
-Difference between  **“smallest integer type”** and **“base type”** 
+## Difference between  **“smallest integer type”** and **“base type”** 
 
 ## 🧩 1️⃣ What’s happening under the hood?
 
