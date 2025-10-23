@@ -65,15 +65,10 @@ The next unassigned element (if any) continues from the last assigned +1.
 
 ----------
 
-## 📦 4. Specifying Enum Base Type
 
-By default, enum uses the **smallest integer type** that fits all values.  
-You can explicitly define the base type:
 
-enum logic [2:0] {RED, GREEN, BLUE} color;
-Now color is stored as a 3-bit logic vector.
 
-## ⚙️ 5. Accessing Enum Members (dot `::` scope operator)
+## ⚙️ 4. Accessing Enum Members (dot `::` scope operator)
 
 If you used a **named enum type**, you can access its members using **scope resolution `::`**.
 
@@ -96,7 +91,7 @@ c2 = color_t::BLUE;    // Assign BLUE to variable c2
 
 ----------
 
-## 🧠 3. Accessing Enum Methods
+## 🧠 5. Accessing Enum Methods
 
 Enum **methods** (like `.first()`, `.next()`, `.name()`) can be used in **two ways**:
 
@@ -150,3 +145,15 @@ end
 `enum logic [2:0] {RED, GREEN, BLUE} color;` 
 
 Now `color` is stored as a **3-bit logic vector**.
+
+
+## 🔍 6. Summary of Enum Methods
+
+|  Method  |                 Description                |               Example               |   Returns  |
+|:--------:|:------------------------------------------:|:-----------------------------------:|:----------:|
+| .first() | First member in enum                       | color_t::first() → RED              | enum value |
+| .last()  | Last member                                | color_t::last() → BLUE              | enum value |
+| .next(x) | Next member after x (wraps around if last) | color_t::next(color_t::RED) → GREEN | enum value |
+| .prev(x) | Previous member before x (wraps if first)  | color_t::prev(color_t::GREEN) → RED | enum value |
+| .num()   | Number of members                          | color_t::num() → 3                  | integer    |
+| .name()  | String name of current value               | c1.name() → "RED"                   | string     |
