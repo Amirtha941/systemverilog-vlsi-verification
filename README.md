@@ -33,7 +33,7 @@ This repo serves as a **learning diary + project portfolio**.
 | 2   | 20/10/2025 | SystemVerilog: Format Specifiers| ---|![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github)|
 | 3   | 21/10/2025 | SystemVerilog: Strings | ---|![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github)|
 | 4   | 23/10/2025 | SystemVerilog: enum | --- |![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github)|
-| 5   | YYYY-MM-DD | SystemVerilog: Interfaces | --- | ![Coming Soon](https://img.shields.io/badge/Coming%20Soon-%23FF69B4?style=for-the-badge&logo=github) |
+| 5   | 24/10/2025| SystemVerilog: Datatypes | --- |![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github) |
 | …   | …          | …                        | …                             | …      |
 | 60  | YYYY-MM-DD | APB Timer Mini Project: Coverage & Report | --- | ![Coming Soon](https://img.shields.io/badge/Coming%20Soon-%23FF69B4?style=for-the-badge&logo=github) |
 
