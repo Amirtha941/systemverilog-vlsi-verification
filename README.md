@@ -36,6 +36,7 @@ This repo serves as a **learning diary + project portfolio**.
 | 5   | 24/10/2025| SystemVerilog: Datatypes | --- |![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github) |
 | 6   | 25/10/2025| SystemVerilog: Copy Assignments | --- |![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github)|
 | 7   | 26/10/2025| SystemVerilog: Functions | --- |![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github)|
+| 8   | 27/10/2025| SystemVerilog: Tasks | --- |![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github)|
 | …   | …          | …                        | …                             | …      |
 | 60  | YYYY-MM-DD | APB Timer Mini Project: Coverage & Report | --- | ![Coming Soon](https://img.shields.io/badge/Coming%20Soon-%23FF69B4?style=for-the-badge&logo=github) |
 
