@@ -42,3 +42,7 @@ So the **clock period = 10 ns**, **frequency = 100 MHz**.
 -   Starts at `count = 0`.
     
 -   Every 10 ns, it increases by 1.
+
+### Output waveform:
+
+![Alt text](Screenshot 2025-10-28 212654.png)
