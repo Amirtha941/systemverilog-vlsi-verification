@@ -45,5 +45,5 @@ So the **clock period = 10 ns**, **frequency = 100 MHz**.
 
 ### Output waveform:
 
-![Waveform](../Images/Screenshot%202025-10-28%20212654.png)
+![Waveform](../Images/counter_waveform.png)
 
