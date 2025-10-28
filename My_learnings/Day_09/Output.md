@@ -26,6 +26,7 @@ So the **clock period = 10 ns**, **frequency = 100 MHz**.
 ### 2️⃣ Counter logic
 
 -   The counter increments **on every positive edge** of the clock (`posedge clk`).
+-   
 | Time (ns) |   Clock   |    Event   | Count Value |
 |:---------:|:---------:|:----------:|:-----------:|
 | 0         | 0         | Initial    | 0           |
@@ -37,12 +38,12 @@ So the **clock period = 10 ns**, **frequency = 100 MHz**.
 | …         | …         | …          | …           |
 | 95        | ↑ posedge | count = 10 | 10          |
 
-
-    
+   
 -   Starts at `count = 0`.
     
 -   Every 10 ns, it increases by 1.
 
 ### Output waveform:
 
-![Alt text](Screenshot 2025-10-28 212654.png)
+![Waveform](../Images/Screenshot%202025-10-28%20212654.png)
+
