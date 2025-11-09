@@ -37,12 +37,44 @@ This repo serves as a **learning diary + project portfolio**.
 | 6   | 25/10/2025| SystemVerilog: Copy Assignments | --- |![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github)|
 | 7   | 26/10/2025| SystemVerilog: Functions | --- |![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github)|
 | 8   | 27/10/2025| SystemVerilog: Tasks | --- |![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github)|
-| 8   | 28/10/2025| SystemVerilog: Exercise 1 |4 bit counter |![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github)|
-| …   | …          | …                        | …                             | …      |
-| 60  | YYYY-MM-DD | APB Timer Mini Project: Coverage & Report | --- | ![Coming Soon](https://img.shields.io/badge/Coming%20Soon-%23FF69B4?style=for-the-badge&logo=github) |
+| 9   | 28/10/2025| SystemVerilog: Exercise 1 |4 bit counter |![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github)|
 
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Amirtha941/systemverilog-vlsi-verification/main/banner-phase2.gif" alt="Phase 2 Restart Banner" width="850"/>
+</p>
+
+<h2 align="center">🔁 Phase 2 – Restarting My SystemVerilog Journey</h2>
+
+<p align="center">
+  <em>Fresh focus • Stronger consistency • Deeper understanding ⚡</em>
+</p>
+
+After a short break for exams, I’m restarting my **SystemVerilog & VLSI Verification** streak from **Day 1** — new mindset, same mission 🚀  
+_(Previous streak: Days 1–9 ✅ Completed)_
+
+---
+
+## 📅 Phase 2: Daily Log Tracker (Restart from 09 Nov 2025)
+
+| Day | Date | Topics / Concepts Studied | Practical / Module Implemented | Status |
+|-----|------|---------------------------|--------------------------------|--------|
+| 1 | 09/11/2025 | SystemVerilog: Revision – Built-in Functions & Enums | --- | ![In Progress](https://img.shields.io/badge/In%20Progress-orange?style=for-the-badge&logo=github) |
+| 2 | 10/11/2025 | SystemVerilog: Struct vs Union | --- |  |
+| 3 | 11/11/2025 | SystemVerilog: Arrays & Dynamic Arrays | --- |  |
+| 4 | 12/11/2025 | SystemVerilog: Queues & Associative Arrays | --- |  |
+| 5 | 13/11/2025 | SystemVerilog: Packages & Imports | --- |  |
+| 6 | 14/11/2025 | SystemVerilog: Interfaces Basics | --- |  |
+| 7 | 15/11/2025 | SystemVerilog: Clocking Blocks | --- |  |
+| 8 | 16/11/2025 | SystemVerilog: Classes & OOP Concepts | --- |  |
+| 9 | 17/11/2025 | SystemVerilog: Randomization Basics | --- |  |
+| 10 | 18/11/2025 | SystemVerilog: Constraints & Methods | --- |  |
+
+---
+
+
 
 ## 🧩 How I Use This Repo
 
