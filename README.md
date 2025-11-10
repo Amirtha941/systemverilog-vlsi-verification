@@ -61,7 +61,7 @@ _(Previous streak: Days 1–9 ✅ Completed)_
 
 | Day | Date | Topics / Concepts Studied | Practical / Module Implemented | Status |
 |-----|------|---------------------------|--------------------------------|--------|
-| 1 | 10/11/2025 | SystemVerilog: Revision – Built-in Functions & Enums | --- |![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github)  |
+| 1 | 10/11/2025 | SystemVerilog: Inheritance | --- |![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github)  |
 | 2 | 11/11/2025 | SystemVerilog: Struct vs Union | --- |![In Progress](https://img.shields.io/badge/In%20Progress-orange?style=for-the-badge&logo=github) |
 | 3 | 12/11/2025 | SystemVerilog: Arrays & Dynamic Arrays | --- |  |
 | 4 | 13/11/2025 | SystemVerilog: Queues & Associative Arrays | --- |  |
