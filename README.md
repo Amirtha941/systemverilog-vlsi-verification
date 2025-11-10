@@ -61,16 +61,16 @@ _(Previous streak: Days 1–9 ✅ Completed)_
 
 | Day | Date | Topics / Concepts Studied | Practical / Module Implemented | Status |
 |-----|------|---------------------------|--------------------------------|--------|
-| 1 | 09/11/2025 | SystemVerilog: Revision – Built-in Functions & Enums | --- | ![In Progress](https://img.shields.io/badge/In%20Progress-orange?style=for-the-badge&logo=github) |
-| 2 | 10/11/2025 | SystemVerilog: Struct vs Union | --- |  |
-| 3 | 11/11/2025 | SystemVerilog: Arrays & Dynamic Arrays | --- |  |
-| 4 | 12/11/2025 | SystemVerilog: Queues & Associative Arrays | --- |  |
-| 5 | 13/11/2025 | SystemVerilog: Packages & Imports | --- |  |
-| 6 | 14/11/2025 | SystemVerilog: Interfaces Basics | --- |  |
-| 7 | 15/11/2025 | SystemVerilog: Clocking Blocks | --- |  |
-| 8 | 16/11/2025 | SystemVerilog: Classes & OOP Concepts | --- |  |
-| 9 | 17/11/2025 | SystemVerilog: Randomization Basics | --- |  |
-| 10 | 18/11/2025 | SystemVerilog: Constraints & Methods | --- |  |
+| 1 | 10/11/2025 | SystemVerilog: Revision – Built-in Functions & Enums | --- |![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github)  |
+| 2 | 11/11/2025 | SystemVerilog: Struct vs Union | --- |![In Progress](https://img.shields.io/badge/In%20Progress-orange?style=for-the-badge&logo=github) |
+| 3 | 12/11/2025 | SystemVerilog: Arrays & Dynamic Arrays | --- |  |
+| 4 | 13/11/2025 | SystemVerilog: Queues & Associative Arrays | --- |  |
+| 5 | 14/11/2025 | SystemVerilog: Packages & Imports | --- |  |
+| 6 | 15/11/2025 | SystemVerilog: Interfaces Basics | --- |  |
+| 7 | 16/11/2025 | SystemVerilog: Clocking Blocks | --- |  |
+| 8 | 17/11/2025 | SystemVerilog: Classes & OOP Concepts | --- |  |
+| 9 | 18/11/2025 | SystemVerilog: Randomization Basics | --- |  |
+| 10 | 19/11/2025 | SystemVerilog: Constraints & Methods | --- |  |
 
 ---
 
