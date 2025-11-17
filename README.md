@@ -80,7 +80,7 @@ _(Previous streak: Days 1–9 ✅ Completed)_
 
 | Day | Date | Topics / Concepts Studied | Practical / Module Implemented | Status |
 |-----|------|---------------------------|--------------------------------|--------|
-| 1 | 17/11/2025 | SystemVerilog: Arrays & Dynamic Arrays | --- |  |
+| 1 | 17/11/2025 | SystemVerilog: Arrays Part-1 | --- |![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github)  |
 | 2 | 18/11/2025 | SystemVerilog: Queues & Associative Arrays | --- |  |
 | 3 | 19/11/2025 | SystemVerilog: Packages & Imports | --- |  |
 | 4 | 20/11/2025 | SystemVerilog: Interfaces Basics | --- |  |
