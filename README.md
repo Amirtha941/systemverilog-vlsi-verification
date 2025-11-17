@@ -25,7 +25,7 @@ This repo serves as a **learning diary + project portfolio**.
 
 ---
 
-## 📅 60-Day Daily Log Tracker
+## 📅 Phase 1: Daily Log Tracker
 
 | Day | Date | Topics / Concepts Studied | Practical / Module Implemented | Status |
 |-----|------|--------------------------|-------------------------------|--------|
@@ -63,14 +63,31 @@ _(Previous streak: Days 1–9 ✅ Completed)_
 |-----|------|---------------------------|--------------------------------|--------|
 | 1 | 10/11/2025 | SystemVerilog: Inheritance | --- |![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github)  |
 | 2 | 11/11/2025 | SystemVerilog: Polymorphism | --- |![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github) |
-| 3 | 12/11/2025 | SystemVerilog: Arrays & Dynamic Arrays | --- |  |
-| 4 | 13/11/2025 | SystemVerilog: Queues & Associative Arrays | --- |  |
-| 5 | 14/11/2025 | SystemVerilog: Packages & Imports | --- |  |
-| 6 | 15/11/2025 | SystemVerilog: Interfaces Basics | --- |  |
-| 7 | 16/11/2025 | SystemVerilog: Clocking Blocks | --- |  |
-| 8 | 17/11/2025 | SystemVerilog: Classes & OOP Concepts | --- |  |
-| 9 | 18/11/2025 | SystemVerilog: Randomization Basics | --- |  |
-| 10 | 19/11/2025 | SystemVerilog: Constraints & Methods | --- |  |
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Amirtha941/systemverilog-vlsi-verification/main/banner-phase3.gif" 
+       alt="Phase 3 Restart Banner" width="850"/>
+</p>
+
+<h2 align="center">🚀Phase 3 – A Fresh Restart</h2>
+
+<p align="center">
+  <em>Not a pause — just a different direction. Hackathons, projects, and parallel learning kept me growing.  
+  Now I’m back to SystemVerilog from Day 1 — sharper, clearer, and more focused than ever 🔥</em>
+</p>
+
+## 📅 Phase 3: Daily Log Tracker (Restart from 17 Nov 2025)
+
+| Day | Date | Topics / Concepts Studied | Practical / Module Implemented | Status |
+|-----|------|---------------------------|--------------------------------|--------|
+| 1 | 17/11/2025 | SystemVerilog: Arrays & Dynamic Arrays | --- |  |
+| 2 | 18/11/2025 | SystemVerilog: Queues & Associative Arrays | --- |  |
+| 3 | 19/11/2025 | SystemVerilog: Packages & Imports | --- |  |
+| 4 | 20/11/2025 | SystemVerilog: Interfaces Basics | --- |  |
+| 5 | 21/11/2025 | SystemVerilog: Clocking Blocks | --- |  |
+| 6 | 22/11/2025 | SystemVerilog: Classes & OOP Concepts | --- |  |
+| 7 | 23/11/2025 | SystemVerilog: Randomization Basics | --- |  |
+| 8 | 24/11/2025 | SystemVerilog: Constraints & Methods | --- |  |
 
 ---
 
