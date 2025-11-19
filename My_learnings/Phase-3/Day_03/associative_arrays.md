@@ -1,5 +1,5 @@
 
-# 🔥 2. ASSOCIATIVE ARRAYS — Full Deep Explanation
+# 🔥 ASSOCIATIVE ARRAYS — Full Deep Explanation
 
 Associative array syntax:
 
