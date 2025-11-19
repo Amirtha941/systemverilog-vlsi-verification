@@ -63,6 +63,7 @@ _(Previous streak: Days 1–9 ✅ Completed)_
 |-----|------|---------------------------|--------------------------------|--------|
 | 1 | 10/11/2025 | SystemVerilog: Inheritance | --- |![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github)  |
 | 2 | 11/11/2025 | SystemVerilog: Polymorphism | --- |![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github) |
+| 2 | 12/11/2025 | SystemVerilog: Loops | --- |![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github) |
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Amirtha941/systemverilog-vlsi-verification/main/banner-phase3.gif" 
