@@ -82,7 +82,7 @@ _(Previous streak: Days 1–9 ✅ Completed)_
 |-----|------|---------------------------|--------------------------------|--------|
 | 1 | 17/11/2025 | SystemVerilog: Arrays Part-1 | --- |![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github)  |
 | 2 | 18/11/2025 | SystemVerilog: Packed and Unpacked Arrays(Part 1) | --- |![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github)|
-| 3 | 19/11/2025 | SystemVerilog: Packages & Imports | --- |  |
+| 3 | 19/11/2025 | SystemVerilog: Associative arrays | --- |![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github)|
 | 4 | 20/11/2025 | SystemVerilog: Interfaces Basics | --- |  |
 | 5 | 21/11/2025 | SystemVerilog: Clocking Blocks | --- |  |
 | 6 | 22/11/2025 | SystemVerilog: Classes & OOP Concepts | --- |  |
