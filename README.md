@@ -84,13 +84,64 @@ _(Previous streak: Days 1–9 ✅ Completed)_
 | 1 | 17/11/2025 | SystemVerilog: Arrays Part-1 | --- |![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github)  |
 | 2 | 18/11/2025 | SystemVerilog: Packed and Unpacked Arrays(Part 1) | --- |![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github)|
 | 3 | 19/11/2025 | SystemVerilog: Associative arrays | --- |![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github)|
-| 4 | 20/11/2025 | SystemVerilog: Interfaces Basics | --- |  |
-| 5 | 21/11/2025 | SystemVerilog: Clocking Blocks | --- |  |
-| 6 | 22/11/2025 | SystemVerilog: Classes & OOP Concepts | --- |  |
-| 7 | 23/11/2025 | SystemVerilog: Randomization Basics | --- |  |
-| 8 | 24/11/2025 | SystemVerilog: Constraints & Methods | --- |  |
+
+
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Amirtha941/systemverilog-vlsi-verification/main/banner-phase4.gif" alt="Phase 4 Banner" width="850"/>
+</p>
+
+<h2 align="center">🚀 Phase 4 — Practical SystemVerilog Verification</h2>
+<p align="center"><em>Hands-on coding • Testbenches • Digital design fundamentals</em></p>
+
+During Phase 3, I focused entirely on **SystemVerilog theory** (syntax, OOP, randomization, assertions, coverage, interfaces, clocking blocks, etc.)  
+Now, in **Phase 4**, I'm shifting to **full practical verification** — writing testbenches, building architectures, and implementing real modules.
+
+This phase boosts both **digital design fundamentals** and **SystemVerilog coding skills**.
+
+---
+
+## 📅 Phase 4: Practical Log Tracker (Starting: 06 Dec 2025)
+
+| Day | Date | Module / Concept | Testbench Component | Status |
+|-----|------|------------------|---------------------|--------|
+| 1 | 06/12/2025 | Half Adder | Driver + Monitor | |
+| 2 | 07/12/2025 | Full Adder | Scoreboard | |
+| 3 | 08/12/2025 | 4-bit Adder | Interface + TB integration | |
+| 4 | 09/12/2025 | Subtractor | Functional coverage | |
+| 5 | 10/12/2025 | Comparator | Assertions | |
+| 6 | 11/12/2025 | MUX (2:1 / 4:1) | Constrained random TB | |
+| 7 | 12/12/2025 | Decoder (3:8) | Self-checking TB | |
+| 8 | 13/12/2025 | Counter (4-bit) | Scoreboard refinement | |
+| 9 | 14/12/2025 | FSM (Moore) | Reference model | |
+| 10 | 15/12/2025 | FSM (Mealy) | Coverage closure | |
+
+---
+
+## 🧩 Phase 4 Goals
+- Build **modular testbenches** for small digital blocks  
+- Strengthen **Driver ↔ Monitor ↔ Scoreboard** concepts  
+- Learn how to write **self-checking testbenches**  
+- Start using **randomization + coverage + assertions** in real examples  
+- Prepare solid foundation for **UVM (Phase 5)**  
+
+---
+
+## 🛠 Deliverables in Phase 4
+Each module will include:
+
+- SystemVerilog **Design Code (DUT)**
+- **Complete Testbench Architecture**
+- **Driver / Monitor / Scoreboard implementation**
+- **Waveform screenshots**
+- **Assertions**
+- **Functional coverage**
+- Explanation of TB flow
+
+---
+
 
 
 
