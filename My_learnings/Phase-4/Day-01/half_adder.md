@@ -25,7 +25,7 @@ The logic equations are:
 -   `cout = a AND b`
     
 
-    ![Half_adder](Images/half_adder.jpg)
+    ![Half_adder](../Images/half_adder.jpg)
 
 ----------
 
@@ -151,4 +151,4 @@ The `$dumpvars` statement dumps the full hierarchy, so signals from both the tes
 
 
 
-![half_adder](Images/half_adder_output.png)
+![half_adder](../Images/half_adder_output.png)
