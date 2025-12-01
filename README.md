@@ -96,18 +96,18 @@ _(Previous streak: Days 1–9 ✅ Completed)_
 <h2 align="center">🚀 Phase 4 — Practical SystemVerilog Verification</h2>
 <p align="center"><em>Hands-on coding • Testbenches • Digital design fundamentals</em></p>
 
-During Phase 3, I focused entirely on **SystemVerilog theory** (syntax, OOP, randomization, assertions, coverage, interfaces, clocking blocks, etc.)  
+During previous phases, I focused entirely on **SystemVerilog theory**.
 Now, in **Phase 4**, I'm shifting to **full practical verification** — writing testbenches, building architectures, and implementing real modules.
 
 This phase boosts both **digital design fundamentals** and **SystemVerilog coding skills**.
 
 ---
 
-## 📅 Phase 4: Practical Log Tracker (Starting: 06 Dec 2025)
+## 📅 Phase 4: Practical Log Tracker (Starting: 01 Dec 2025)
 
 | Day | Date | Module / Concept | Testbench Component | Status |
 |-----|------|------------------|---------------------|--------|
-| 1 | 06/12/2025 | Half Adder | Driver + Monitor | |
+| 1 | 01/12/2025 | Half Adder | Simple testbench |![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github) |
 | 2 | 07/12/2025 | Full Adder | Scoreboard | |
 | 3 | 08/12/2025 | 4-bit Adder | Interface + TB integration | |
 | 4 | 09/12/2025 | Subtractor | Functional coverage | |
