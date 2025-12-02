@@ -108,7 +108,7 @@ This phase boosts both **digital design fundamentals** and **SystemVerilog codin
 | Day | Date | Module / Concept | Testbench Component | Status |
 |-----|------|------------------|---------------------|--------|
 | 1 | 01/12/2025 | Half Adder | Simple testbench |![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github) |
-| 2 | 07/12/2025 | Full Adder | Scoreboard | |
+| 2 | 02/12/2025 | Full Adder | Simple testbench |![Completed](https://img.shields.io/badge/Completed-%2300C851?style=for-the-badge&logo=github) |
 | 3 | 08/12/2025 | 4-bit Adder | Interface + TB integration | |
 | 4 | 09/12/2025 | Subtractor | Functional coverage | |
 | 5 | 10/12/2025 | Comparator | Assertions | |
