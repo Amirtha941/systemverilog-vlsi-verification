@@ -30,13 +30,59 @@ This design uses basic combinational logic and verifies all **8 possible input c
 
 The full adder outputs:
 
-`sum = a ^ b ^ c cout = (a & b) | (b & c) | (c & a)` 
+```
+um = a ^ b ^ c 
+cout = (a & b) | (b & c) | (c & a)
+``` 
 
 These are the standard Boolean equations for a 1-bit full adder.
+
+```
+module full_adder(
+  input logic a,b, c,
+  output logic sum,cout
+);
+  assign sum=a^b^c;
+  assign cout=a&b | b&c | c&a;
+  
+endmodule
+```
+
 
 ----------
 
 ## 3. Testbench – `tb_full_adder.sv`
+
+```
+`timescale 1ns/1ps
+
+
+module tb_full_adder();
+  logic a,b,c,sum,cout;
+  full_adder dut (
+    .a(a),
+    .b(b),
+    .c(c),
+    .sum(sum),
+    .cout(cout)
+  );  
+  initial begin
+    $dumpfile("dump.vcd");
+	$dumpvars(0, tb_full_adder);
+    $monitor("At time= %0t,a=%0b,b=%0b,c=%0b,sum=%0b,cout=%0b",$time,a,b,c,sum,cout);
+  a=0;b=0;c=0;
+  #5
+  a=1'b0;b=1'b0;c=1'b1;
+  #5 a=1'b0;b=1'b1;c=1'b0;
+  #5 a=1'b0;b=1'b1;c=1'b1;
+  #5 a=1'b1;b=1'b0;c=1'b0;
+  #5 a=1'b1;b=1'b0;c=1'b1;
+  #5 a=1'b1;b=1'b1;c=1'b0;
+  #5 a=1'b1;b=1'b1;c=1'b1;
+  $finish;
+  end
+endmodule  
+```
 
 The testbench does the following:
 
@@ -84,6 +130,7 @@ The testbench uses `#5` delays so each vector is visible separately in the wavef
 ## 5. Expected Console Output
 
 When the testbench runs, `$monitor` prints:
+
 ![full adder](../Images/full_adder_output.png)
 
 
